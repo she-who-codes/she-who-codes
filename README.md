@@ -33,7 +33,7 @@ A comparative evaluation of AI-generated Unity 6 and C# code for a 2D mobile gam
 - Documented test results, bugs, implementation differences, and required corrections.
 - Evaluated functional correctness against repeatable test scenarios.
 
-**Project repository:** [Insert the public Betting repository link](https://github.com/she-who-codes/AI-Generated-Unity-Evaluation--Wager-Selector/tree/main)]
+**Project repository:** [AI Comparison repository](https://github.com/she-who-codes/AI-Generated-Unity-Evaluation--Wager-Selector/tree/main)]
 
 ## Technical Background
 
